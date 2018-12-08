@@ -9,7 +9,7 @@ a {
 }
 
  a:hover {
-    color: #ffcc00;
+    color: #817130;
     transition: 0.4s ease-in-out;
     text-decoration: none;
 }
@@ -19,15 +19,19 @@ a {
 }
 
 .bg-lighter{
-    background-color: #bd9802;
+    background-color: #ffcc00;
 }
 
 .bg-darker{
-    background-color:  #4f4b01;
+    background-color:  #cfa600;
 }
 
 .borderRadius{
     border-radius: 80px;
+}
+
+.borderRadiusSmall{
+    border-radius: 20px;
 }
 
 section li{
